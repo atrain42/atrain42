@@ -1,7 +1,7 @@
 ### Hi there 👋 
--📌 I am a self-taugh Frontend Developer.
--🌱 I’m currently advancing my knowledge on React
--🪐 I am always working on new projects and researching topics in order to improve my development skills
+- 📌 I am a self-taugh Frontend Developer
+- 🌱 I’m currently advancing my knowledge on React
+- 🪐 I am always working on new projects and researching topics in order to improve my development skills
 
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
