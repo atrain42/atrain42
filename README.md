@@ -5,7 +5,7 @@
 
 
 ### My current Frontend tech stack includes:
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=ColorName&style=ShieldStyle" /> <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5&logoColor=ColorName&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" />
 
 
 <!--
