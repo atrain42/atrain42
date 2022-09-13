@@ -3,7 +3,7 @@
 - 🌱 My current tech stack includes HTML, CSS, JavaScript, and React.js
 - 🪐 I am always working on new projects and researching topics in order to improve my development skills
 
-<img src="https://img.shields.io/badge/JavaScript-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/JavaScript-Yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
