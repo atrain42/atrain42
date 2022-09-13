@@ -5,8 +5,8 @@
 
 
 ### My current Frontend tech stack includes:
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/CSS-yellow?logo=CSS3t&logoColor=white&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/CSS-ColourCode?logo=CSS3&logoColor=ColorName&style=ShieldStyle" />
+
 
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
