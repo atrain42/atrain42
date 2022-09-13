@@ -10,6 +10,9 @@
 ### Other technologies and platforms I have worked with:
 <img src="https://img.shields.io/badge/Firebase-FFCA28e?logo=Firebase&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Handlebars-000000?logo=Handlebars&logoColor=white&style=ShieldStyle" />
 
+![image](https://user-images.githubusercontent.com/96387360/189797066-6a0adc69-722a-4fa5-8d05-247368a5741c.png)
+
+
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
