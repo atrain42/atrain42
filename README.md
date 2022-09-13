@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 📌 I am a self-taugh Frontend Developer
+- 📌 I am a self-taught Frontend Developer
 - 🌱 My current tech stack includes HTML, CSS, JavaScript, and React.js
 - 🪐 I am always working on new projects and researching topics in order to improve my development skills
 
