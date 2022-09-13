@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28e?logo=Firebase&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Handlebars-000000?logo=Handlebars&logoColor=white&style=ShieldStyle" />
 
 
-[![Twitter] [http://i.imgur.com/tXSoThF.png]] [http://www.twitter.com/carlsednaoui]
+[! [Twitter] [http://i.imgur.com/tXSoThF.png]] [http://www.twitter.com/carlsednaoui]
 
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
