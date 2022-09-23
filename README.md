@@ -3,8 +3,11 @@
 - 🌱 My current tech stack includes HTML, CSS, JavaScript, and React.js
 - 🪐 I am always working on new projects and researching topics in order to improve my development skills
 
-### ⚡️ I'm currently learning 
-- ⚡️ Currently learning Next.js
+### What am I currently doing? ⚡️
+- Learning Next.js and how to pass data from the server to the client
+- Improving my React.js skills and diving deeper into more advanced concepts
+- Learning Tailwind.css in order to write CSS more efficiently
+- Best practices to increase web performance
 
 
 ### My current Frontend tech stack includes:
