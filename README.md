@@ -16,10 +16,6 @@ I am a self-taught developer who has a passion for software development. What I 
 
 
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=atrain42&count_private=true&theme=tokyonight&showicons=true)]()
-
-
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
