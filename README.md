@@ -1,7 +1,5 @@
 ### Hi there 👋 
-- 📌 I am a self-taught Frontend Developer
-- 🌱 My current tech stack includes HTML, CSS, JavaScript, and React.js
-- 🪐 I am always working on new projects and researching topics in order to improve my development skills
+I am a self-taught developer who has a passion for software development. What I enjoy the most about software development, is the challenge and continuous learning within the industry. I have always loved art and technology, and I find that frontend development is the perfect combination of both.
 
 ### What am I currently doing? ⚡️
 - Learning Next.js and how to pass data from the server to the client
