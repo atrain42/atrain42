@@ -5,7 +5,7 @@ I am a self-taught developer who has a passion for software development. What I 
 - Learning Next.js and how to pass data from the server to the client
 - Improving my React.js skills and diving deeper into more advanced concepts
 - Learning Tailwind.css in order to write CSS more efficiently
-- Best practices to increase web performance
+- Learning best practices to increase web performance
 
 
 ### My current Frontend tech stack includes:
