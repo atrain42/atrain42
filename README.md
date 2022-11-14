@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrain42&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrain42)](https://git.io/streak-stats)
