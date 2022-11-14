@@ -2,9 +2,8 @@
 I am a self-taught developer who has a passion for software development. What I enjoy the most about software development, is the challenge and continuous learning within the industry. I have always loved art and technology, and I find that frontend development is the perfect combination of both.
 
 ### What am I currently doing? ⚡️
-- Learning Next.js and how to pass data from the server to the client
-- Improving my React.js skills and diving deeper into more advanced concepts
-- Learning Tailwind.css in order to write CSS more efficiently
+- Working as a Frontend Developer at Advisory Alpha
+- Learning Ruby on Rails
 - Learning best practices to increase web performance
 
 
