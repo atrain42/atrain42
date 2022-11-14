@@ -11,9 +11,10 @@ I am a self-taught developer who has a passion for software development. What I 
 ### My current Frontend tech stack includes:
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Tailwind.css-06B6D4?logo=Tailwind+CSS&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Alpine.css-06B6D4?logo=Tailwind+CSS&logoColor=white&style=ShieldStyle" />
 
-### Design Programs
+### Design Software
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
 
