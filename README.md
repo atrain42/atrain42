@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrain42&theme=icegray)](https://git.io/streak-stats)
+### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrain42&theme=nord)](https://git.io/streak-stats)
