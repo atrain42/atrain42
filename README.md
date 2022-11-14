@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=atrain42
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrain42&theme=icegray)](https://git.io/streak-stats)
