@@ -11,6 +11,7 @@ I am a frontend developer who has a passion for all areas of software developmen
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Tailwind.css-06B6D4?logo=Tailwind+CSS&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=Next+JS&logoColor=white&style=ShieldStyle" />
 
 ### Design Software 🖼️
+As a frontend developer, I place significant emphasis on understanding design principles, which is why I took it upon myself to learn Figma. I also enjoy creating vector graphics using Adobe Illustrator. You can view some of my creations here: https://www.vectorowl.com/
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
