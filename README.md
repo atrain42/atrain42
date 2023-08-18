@@ -12,6 +12,7 @@ I am a frontend developer who has a passion for all areas of software developmen
 
 ### Design Software 🖼️
 As a frontend developer, I place significant emphasis on understanding design principles, which is why I took it upon myself to learn Figma. I also enjoy creating vector graphics using Adobe Illustrator. You can view some of my creations here: https://www.vectorowl.com/
+<br></br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
