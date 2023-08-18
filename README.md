@@ -8,12 +8,7 @@ I am a frontend developer who has a passion for all areas of software developmen
 
 
 ### What technologies have I worked with? 🧑‍💻
-Frontend technologies:
-<br></br>
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Tailwind.css-06B6D4?logo=Tailwind+CSS&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=Next+JS&logoColor=white&style=ShieldStyle" />
-
-Backend Technologies:
-<br></br>
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
