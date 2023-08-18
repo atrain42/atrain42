@@ -7,9 +7,13 @@ I am a frontend developer who has a passion for all areas of software developmen
 - Advancing my design skills by learning Adobe Illustrator and Figma
 
 
-### My current Frontend tech stack includes 🧑‍💻: 
+### Technologies I've worked with 🧑‍💻:
+Frontend technologies:
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Tailwind.css-06B6D4?logo=Tailwind+CSS&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=Next+JS&logoColor=white&style=ShieldStyle" />
 
+Backend Technologies: 
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ### Design Software 🖼️
 As a frontend developer, I place significant emphasis on understanding design principles, which is why I took it upon myself to learn Figma. I also enjoy creating vector graphics using Adobe Illustrator. You can view some of my creations here: https://www.vectorowl.com/
 <br></br>
