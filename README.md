@@ -16,6 +16,7 @@ I am a frontend developer who has a passion for all areas of software developmen
 
 ### Photography/Videography Software
 In my free time, I delve into the world of photography/videography. I enjoy capturing cinematic footage with my DJI Air 3 drone, and then editing the footage into captivating videos.
+
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
