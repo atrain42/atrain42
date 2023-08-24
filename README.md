@@ -3,8 +3,8 @@ I am a frontend developer who has a passion for all areas of software developmen
 
 ### What am I currently doing? 😀
 - Working as a Frontend Developer at Advisory Alpha
-- Learning best practices to increase web performance
-- Advancing my design skills by learning Adobe Illustrator and Figma
+- Advancing my knowledge of Ruby on Rails
+- Continuing to improve my JavaScript and React skills
 
 
 ### What technologies have I worked with? 🧑‍💻
