@@ -5,6 +5,7 @@ I am a frontend developer who has a passion for all areas of software developmen
 - Working as a Frontend Developer at Advisory Alpha
 - Advancing my knowledge of Ruby on Rails
 - Continuing to improve my JavaScript and React skills
+- Improving my video editing skills
 
 
 ### What technologies have I worked with? 🧑‍💻
