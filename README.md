@@ -19,6 +19,7 @@ As a frontend developer, I place significant emphasis on understanding design pr
 <br></br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ### Photography/Videography Software 🎥
 In my free time, I like to delve into the world of photography/videography. I enjoy capturing cinematic footage with my DJI Air 3 drone and then editing the footage into captivating videos.
