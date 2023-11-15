@@ -1,4 +1,6 @@
-# Hey you 🫵
+# The Animation Wizard
+
+### Hey you 🫵
 I am a frontend developer who has a passion for all areas of software development. What I enjoy the most about software development, is the challenge and continuous learning within the industry. I have always loved art and technology, and I find that frontend development is the perfect combination of both.
 
 ### What am I currently doing? 😀
