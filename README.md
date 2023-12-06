@@ -30,6 +30,7 @@ In my free time, I like to delve into the world of photography/videography. I en
 
 ### Current Reading 📚:
 Sapiens by Yuval Noah Harari
+<br></br>
 The Silent Patient by Alex Michaelides
 
 <!--
