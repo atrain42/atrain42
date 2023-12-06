@@ -29,7 +29,8 @@ In my free time, I like to delve into the world of photography/videography. I en
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ### Current Reading 📚:
-Sapiens by Yuval Noah Harari 
+Sapiens by Yuval Noah Harari
+The Silent Patient by Alex Michaelides
 
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
