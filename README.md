@@ -3,9 +3,8 @@ I am a frontend developer who has a passion for all areas of software developmen
 
 ### What am I currently doing? 😀
 - Working as a Frontend Developer at Advisory Alpha
-- Advancing my knowledge of Ruby on Rails
 - Continuing to improve my JavaScript and React skills
-- On the side: Improving my video editing skills
+- Advancing my knowledge of Ruby
 
 
 ### What technologies have I worked with? 🧑‍💻
