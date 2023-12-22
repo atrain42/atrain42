@@ -31,7 +31,7 @@ In my free time, I like to delve into the world of photography/videography. I en
 
 ### Current Reading 📚:
 - Sapiens by Yuval Noah Harari
-- The Silent Patient by Alex Michaelides
+- Every Hand Revealed by Gus Hansen
 
 <!--
 **atrain42/atrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
