@@ -25,9 +25,8 @@ As a frontend developer, I place significant emphasis on understanding design pr
 ### Photography/Videography Software 🎥
 In my free time, I like to delve into the world of photography/videography. I enjoy capturing cinematic footage with my DJI Air 3 drone and then editing the footage into captivating videos.
 <br></br>
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Davinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 
 <!--
