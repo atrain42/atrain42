@@ -1,5 +1,3 @@
-### Over 1000 contributions in 2023
-
 ### Hey you 🫵
 I am a frontend developer who has a passion for all areas of software development. What I enjoy the most about software development, is the challenge and continuous learning within the industry. I have always loved art and technology, and I find that frontend development is the perfect combination of both.
 
